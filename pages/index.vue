@@ -96,21 +96,6 @@
         </div>
       </div>
 
-      <!-- Stats -->
-      <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
-        <div class="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
-          <h2 data-aos="fade-right" class="text-base font-semibold leading-8 text-indigo-400">Notre palmarès</h2>
-          <p data-aos="fade-right" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Approuvé par des milliers d'utilisateurs dans le &nbsp;monde entier</p>
-          <p  data-aos="fade-right" class="mt-6 text-lg leading-8 text-gray-300">Join the ranks of satisfied server owners globally who rely on our trusted bot for unparalleled security and peace of mind, ensuring the safety and integrity of their communities.</p>
-        </div>
-        <dl data-aos="fade-right" class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-10 text-white sm:mt-20 sm:grid-cols-2 sm:gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-4">
-          <div v-for="stat in stats" :key="stat.id" class="flex flex-col gap-y-3 border-l border-white/10 pl-6">
-            <dt class="text-sm leading-6">{{ stat.name }}</dt>
-            <dd class="order-first text-3xl font-semibold tracking-tight">{{ stat.value }}</dd>
-          </div>
-        </dl>
-      </div>
-
       <!-- CTA section -->
       <div data-aos="fade-down" class="relative isolate mt-32 px-6 py-32 sm:mt-56 sm:py-40 lg:px-8">
         <svg class="absolute inset-0 -z-10 h-full w-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]" aria-hidden="true">
