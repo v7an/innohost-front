@@ -75,27 +75,7 @@
           </dl>
         </div>
       </div>
-
-      <!-- Feature section -->
-      <div class="mt-32 sm:mt-56">
-        <div class="mx-auto max-w-7xl px-6 lg:px-8">
-        
-        </div>
-
-        <div data-aos="fade-up" class="mx-auto mt-16 max-w-7xl px-6 sm:mt-20 md:mt-24 lg:px-8">
-          <dl class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-300 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16">
-            <div v-for="feature in secondaryFeatures" :key="feature.name" class="relative pl-9">
-              <dt class="inline font-semibold text-white">
-                <component :is="feature.icon" class="absolute left-1 top-1 h-5 w-5 text-indigo-500" aria-hidden="true" />
-                {{ feature.name }}
-              </dt>
-              {{ ' ' }}
-              <dd class="inline">{{ feature.description }}</dd>
-            </div>
-          </dl>
-        </div>
-      </div>
-
+      
       <!-- CTA section -->
       <div data-aos="fade-down" class="relative isolate mt-32 px-6 py-32 sm:mt-56 sm:py-40 lg:px-8">
         <svg class="absolute inset-0 -z-10 h-full w-full stroke-white/10 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]" aria-hidden="true">
