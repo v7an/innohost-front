@@ -55,9 +55,9 @@
       <!-- Feature section -->
       <div class="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
         <div class="mx-auto max-w-2xl text-center">
-          <h2 data-aos="fade-down" class="text-base font-semibold leading-7 text-indigo-400">Deploy Inno-Host</h2>
-          <p data-aos="fade-down" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Learn a different way to manage your server.</p>
-          <p data-aos="fade-down" class="mt-6 text-lg leading-8 text-gray-300">With Inno-Host, experience a unique approach to moderation by utilizing our array of tools to foster a healthy and efficient ecosystem within your server..</p>
+          <h2 data-aos="fade-down" class="text-base font-semibold leading-7 text-indigo-400">Inno-Host</h2>
+          <p data-aos="fade-down" class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">Votre serveur est entre de bonnes mains avec InnoHost.</p>
+          <p data-aos="fade-down" class="mt-6 text-lg leading-8 text-gray-300">Avec Inno-Host, libérez le plein potentiel de vos bots Discord, en toute fiabilité et gratuitement.</p>
         </div>
         <div data-aos="fade-down" class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
