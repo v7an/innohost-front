@@ -25,7 +25,7 @@
         </div>
         <div class="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-40 lg:flex lg:px-8 lg:pt-40">
           <div class="mx-auto max-w-2xl flex-shrink-0 lg:mx-0 lg:max-w-xl lg:pt-8">
-            <img data-aos="fade-down" class="h-11" src="https://cdn.discordapp.com/attachments/1229880919184117820/1235542070337339402/discotools-xyz-icon4.png?ex=6634bfb8&is=66336e38&hm=ad9f77bf2cfc92804faeb002c9b26eab6b82810c91720cf88cdab88d644dff34&" alt="innohost logo" />
+           <img data-aos="fade-down" class="h-11" src="../public/logo.png" alt="innohost logo" />
             <div class="mt-24 sm:mt-32 lg:mt-16">
             </div>
             <h1 data-aos="fade-right" class="mt-10 text-4xl font-bold tracking-tight text-white sm:text-6xl">Vous êtes entre de bonnes mains avec InnoHost.</h1>
