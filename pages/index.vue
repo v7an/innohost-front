@@ -96,7 +96,7 @@
           <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Use our hosting service today.</h2>
           <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-300">Improve the security and efficiency of your project by integrating our trusted hosting provider today.</p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
-            <a href="https://my.innohost.fr" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Start</a>
+            <a href="https://my.innohost.eu" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Start</a>
             <a href="https://discord.gg/inno" class="text-sm font-semibold leading-6 text-white">Join our discord <span aria-hidden="true">→</span></a>
           </div>
         </div>
